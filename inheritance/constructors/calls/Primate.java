@@ -1,4 +1,4 @@
-package constructors.calls;
+package inheritance.constructors.calls;
 
 public class Primate {
   public Primate() {
